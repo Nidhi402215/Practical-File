@@ -1,0 +1,57 @@
+h1{
+ color:lightpink;
+ font-family:'Franklin Gothic';
+ text-transform: uppercase;
+ font-size: 50px;
+}
+h3
+{
+ font-family:'Franklin Gothic';
+ color:lightpink;
+}
+h2
+{
+ font-family:'Franklin Gothic';
+ color:lightpink;
+ font-size: 20px;
+} 
+body 
+{
+ text-align: center;
+ background-color: #000000; 
+ color: white;
+ font-family:'Segoe UI';
+}
+.link-container 
+{
+ text-align: center;
+}
+h4
+{
+ text-transform: uppercase;
+ color:lightpink;
+ font-weight: bold; 
+}
+a {
+ color: white; 
+ text-decoration: none; 
+ font-size: 18px;
+ font-weight: bold;
+ padding: 20px;
+ background-color: black; 
+ border-width: 2px; 
+ border-style: solid; 
+ border-color: white; 
+ border-radius: 10px; 
+ text-align: center;
+}
+legend {
+  text-align: center;
+  font-weight: bold;
+  font-size: 18px;
+  color: lightpink;
+}
+form {
+ font-size: 20px;
+ text-align: left; 
+}
